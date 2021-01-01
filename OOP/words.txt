@@ -1,0 +1,4 @@
+This course will give you a full
+introduction into all of the core concepts in
+ python. Follow along with the videos and
+ you'll be a python programmer in no time!
